@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.io.File;
 
-
+//BennyLi
 // Animation of Orc walking
 public class Animation extends Application {
     final int canvasCount = 10;
